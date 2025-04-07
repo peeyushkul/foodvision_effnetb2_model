@@ -14,7 +14,7 @@ Deployed Model at Hugging Face - https://huggingface.co/spaces/peeyushkul/foodvi
 6. Inspect loss curves
 7. Save model if accuracy is satisfactory
 8. Use Gradio to create a deployable app
-9. Depoloy on [Hugging Face](https://huggingface.co/spaces/peeyushkul/foodvision_effnetb2_model_full)
+9. Deploy on [Hugging Face](https://huggingface.co/spaces/peeyushkul/foodvision_effnetb2_model_full)
 
 
 **Details of files:**
